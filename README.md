@@ -1,4 +1,4 @@
-# Deployment-of-BERT-GPT-models-on-AWS-web-server
+# Deployment-of-BERT-GPT-models-on-web-server
 This is a project to practice MLOps. Implement a flask application with UI web page to generate next sentence using BERT and GPT models 
 
 # Snapshots
