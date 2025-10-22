@@ -1,0 +1,13 @@
+{"name": "ModelExperiment", "time": 1645927283, "salt": "ModelExperiment", "inputs": {"userid": 521}, "params": {"use_pytorch": 1, "model_type": "BERT"}, "event": "exposure", "checksum": "53e479ee"}
+{"name": "ModelExperiment", "time": 1645927452, "salt": "ModelExperiment", "inputs": {"userid": 521}, "params": {"use_pytorch": 1, "model_type": "BERT"}, "event": "rate", "extra_data": {"rate_val": 5}, "checksum": "53e479ee"}
+{"name": "ModelExperiment", "time": 1645927456, "salt": "ModelExperiment", "inputs": {"userid": 521}, "params": {"use_pytorch": 1, "model_type": "BERT"}, "event": "exposure", "checksum": "53e479ee"}
+{"name": "ModelExperiment", "time": 1645927580, "salt": "ModelExperiment", "inputs": {"userid": 927}, "params": {"use_pytorch": 0, "model_type": "GPT-3"}, "event": "exposure", "checksum": "53e479ee"}
+{"name": "ModelExperiment", "time": 1645927660, "salt": "ModelExperiment", "inputs": {"userid": 927}, "params": {"use_pytorch": 0, "model_type": "GPT-3"}, "event": "rate", "extra_data": {"rate_val": 9}, "checksum": "53e479ee"}
+{"name": "ModelExperiment", "time": 1645927663, "salt": "ModelExperiment", "inputs": {"userid": 927}, "params": {"use_pytorch": 0, "model_type": "GPT-3"}, "event": "exposure", "checksum": "53e479ee"}
+{"name": "ModelExperiment", "time": 1645927717, "salt": "ModelExperiment", "inputs": {"userid": 369}, "params": {"use_pytorch": 1, "model_type": "BERT"}, "event": "exposure", "checksum": "53e479ee"}
+{"name": "ModelExperiment", "time": 1645927772, "salt": "ModelExperiment", "inputs": {"userid": 369}, "params": {"use_pytorch": 1, "model_type": "BERT"}, "event": "rate", "extra_data": {"rate_val": 6}, "checksum": "53e479ee"}
+{"name": "ModelExperiment", "time": 1645927773, "salt": "ModelExperiment", "inputs": {"userid": 369}, "params": {"use_pytorch": 1, "model_type": "BERT"}, "event": "exposure", "checksum": "53e479ee"}
+{"name": "ModelExperiment", "time": 1645929681, "salt": "ModelExperiment", "inputs": {"userid": 369}, "params": {"use_pytorch": 1, "model_type": "BERT"}, "event": "exposure", "checksum": "53e479ee"}
+{"name": "ModelExperiment", "time": 1645929718, "salt": "ModelExperiment", "inputs": {"userid": 5}, "params": {"use_pytorch": 0, "model_type": "GPT-3"}, "event": "exposure", "checksum": "53e479ee"}
+{"name": "ModelExperiment", "time": 1645929754, "salt": "ModelExperiment", "inputs": {"userid": 5}, "params": {"use_pytorch": 0, "model_type": "GPT-3"}, "event": "rate", "extra_data": {"rate_val": 10}, "checksum": "53e479ee"}
+{"name": "ModelExperiment", "time": 1645929760, "salt": "ModelExperiment", "inputs": {"userid": 5}, "params": {"use_pytorch": 0, "model_type": "GPT-3"}, "event": "exposure", "checksum": "53e479ee"}
